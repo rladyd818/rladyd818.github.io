@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Yong Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "안녕하세요! 개발을 사랑하는 **평~범**한 개발자에요. :)"
+  location         : "서울특별시 구로구 오류동"
   email            :
   links:
     - label: "Email"
