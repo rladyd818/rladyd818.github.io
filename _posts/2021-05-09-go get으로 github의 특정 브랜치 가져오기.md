@@ -2,6 +2,7 @@
 layout: single
 
 title: "go get으로 github의 특정 브랜치 가져오기"
+comments: true
 ---
 
 안녕하세요. 
